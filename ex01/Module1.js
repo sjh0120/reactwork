@@ -1,0 +1,1 @@
+var exports=module.exports={key:'val1'};

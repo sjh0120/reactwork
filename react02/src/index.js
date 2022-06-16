@@ -73,7 +73,8 @@ root.render(
   <>
   {/* <Car/>
   <Car2></Car2> */}
-  {/* <Car3 name="k5"/> */}
+  {/*<Car3 name="k5"/>*/}
+  
   <Car4 num="100"/>
   </>
 );
